@@ -1,0 +1,17 @@
+metric,value
+Total Observations,1000
+Total Animals,100
+Total Species,10
+Average Speed (km/h),0.3645
+Total Distance (km),20293.4358
+Average Risk Score,10.965
+Maximum Risk Score,58
+Low Risk Observations,923
+Moderate Risk Observations,69
+High Risk Observations,8
+Critical Risk Observations,0
+Movement Anomalies,50
+Anomaly Percentage,5.0
+High Conservation Priority,8
+Critical Conservation Priority,0
+Overall Conservation Status,High Risk
